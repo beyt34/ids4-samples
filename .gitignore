@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/identityserver4_sample1_client_credentials/Api/bin/Debug/net5.0
