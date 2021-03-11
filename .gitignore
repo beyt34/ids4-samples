@@ -34,3 +34,7 @@
 /identityserver4_sample6_aspnet_identity/IdentityServerAspNetIdentity/obj
 /identityserver4_sample6_aspnet_identity/MvcClient/bin/Debug/net5.0
 /identityserver4_sample6_aspnet_identity/MvcClient/obj
+/eShopOnContainers_Identity.API/Identity.API/bin/Debug/net5.0
+/eShopOnContainers_Identity.API/Identity.API/obj/Debug/net5.0
+/eShopOnContainers_Identity.API/Identity.API/obj
+/identityserver4_sample5_entityframework/Client/obj/Release/net5.0
