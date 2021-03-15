@@ -40,3 +40,7 @@
 /identityserver4_sample5_entityframework/Client/obj/Release/net5.0
 /testApp/MvcClient/bin/Debug/net5.0
 /testApp/MvcClient/obj
+/testApp/MvcClient1/bin/Debug/net5.0
+/testApp/MvcClient1/obj
+/testApp/MvcClient2/bin/Debug/net5.0
+/testApp/MvcClient2/obj

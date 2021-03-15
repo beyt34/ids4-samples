@@ -23,8 +23,9 @@ namespace MvcClient
             .AddOpenIdConnect("oidc", options =>
             {
                 options.Authority = "https://localhost:5001";
+                options.RequireHttpsMetadata = true;
 
-                options.ClientId = "DMS.Admin";
+                options.ClientId = "DMS.Web.SPA";
                 options.ClientSecret = "secret";
                 options.ResponseType = "code";
                 
