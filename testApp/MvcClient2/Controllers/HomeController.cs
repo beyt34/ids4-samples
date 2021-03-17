@@ -1,14 +1,14 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using MvcClient.Models;
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using MvcClient2.Models;
 using Newtonsoft.Json.Linq;
 
-namespace MvcClient.Controllers
+namespace MvcClient2.Controllers
 {
     public class HomeController : Controller
     {

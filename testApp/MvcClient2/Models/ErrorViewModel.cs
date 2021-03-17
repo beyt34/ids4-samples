@@ -1,6 +1,4 @@
-using System;
-
-namespace MvcClient.Models
+namespace MvcClient2.Models
 {
     public class ErrorViewModel
     {

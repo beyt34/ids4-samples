@@ -44,3 +44,9 @@
 /testApp/MvcClient1/obj
 /testApp/MvcClient2/bin/Debug/net5.0
 /testApp/MvcClient2/obj
+/testApp/Api1/bin/Debug/net5.0
+/testApp/Api1/obj
+/testApp/Api2/bin/Debug/net5.0
+/testApp/Api2/obj
+/testApp/AuthServer/bin/Debug/net5.0
+/testApp/AuthServer/obj
