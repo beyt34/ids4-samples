@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\identityserver4_sample1_client_credentials",
+    "\\identityserver4_sample2_interactive_aspnetcore",
+    "\\identityserver4_sample3_aspnetcore_and_apis",
+    "\\identityserver4_sample5_entityframework",
+    "\\identityserver4_sample6_aspnet_identity",
+    "\\testApp"
   ],
-  "SelectedNode": "\\sample6.sln",
+  "SelectedNode": "\\testApp\\testApp.sln",
   "PreviewInSolutionExplorer": false
 }
