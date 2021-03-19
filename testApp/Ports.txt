@@ -1,0 +1,5 @@
+AuthServer	=> 3001
+Api1		=> 4101
+Api2		=> 4201
+Client1		=> 5101
+Client2		=> 5201

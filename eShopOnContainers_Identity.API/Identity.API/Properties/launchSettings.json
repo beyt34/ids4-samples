@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "SelfHost": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:55100/Account/Login",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55100"
+    }
+  }
+}

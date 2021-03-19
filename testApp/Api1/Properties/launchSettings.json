@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "MvcClient": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:4101/weatherforecast",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:4101"
+    }
+  }
+}
